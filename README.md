@@ -8,15 +8,15 @@ A very simple project managent tool built with Django & Bulma.io.
 
 Here are some screenshots:
 
-![](https://github.com/matagus/sprintmanagement/raw/main/sprintmanagement/static/screenshots/stories-1.png)
+![](https://github.com/jagriti2pandey/sprintmanagement/raw/main/sprintmanagement/static/screenshots/stories-1.png)
 
-![](https://github.com/matagus/sprintmanagement/raw/main/sprintmanagement/static/screenshots/stories-2.png)
+![](https://github.com/jagriti2pandey/sprintmanagement/raw/main/sprintmanagement/static/screenshots/stories-2.png)
 
-![](https://github.com/matagus/sprintmanagement/raw/main/sprintmanagement/static/screenshots/stories-4.png)
+![](https://github.com/jagriti2pandey/sprintmanagement/raw/main/sprintmanagement/static/screenshots/stories-4.png)
 
-![](https://github.com/matagus/sprintmanagement/raw/main/sprintmanagement/static/screenshots/epics-1.png)
+![](https://github.com/jagriti2pandey/sprintmanagement/raw/main/sprintmanagement/static/screenshots/epics-1.png)
 
-![](https://github.com/matagus/sprintmanagement/raw/main/sprintmanagement/static/screenshots/sprints-1.png)
+![](https://github.com/jagriti2pandey/sprintmanagement/raw/main/sprintmanagement/static/screenshots/sprints-1.png)
 
 
 ## Features

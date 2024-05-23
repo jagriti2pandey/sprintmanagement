@@ -49,10 +49,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/matagus/sprintmanagement"
-Issues = "https://.github.com/matagus/sprintmanagement/issues"
-Repository = "https://github.com/matagus/sprintmanagement"
-Changelog = "https://githib.com/matagus/sprintmanagement/releases"
+Homepage = "https://github.com/jagriti2pandey/sprintmanagement"
+Issues = "https://.github.com/jagriti2pandey/sprintmanagement/issues"
+Repository = "https://github.com/jagriti2pandey/sprintmanagement"
+Changelog = "https://githib.com/jagriti2pandey/sprintmanagement/releases"
 
 [tool.hatch.version]
 path = "config/__init__.py"

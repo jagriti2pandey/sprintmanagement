@@ -1,6 +1,6 @@
 # Primary Authors
 
-- Matias Agustin Mendez (https://github.com/matagus)
+- Jagriti Pandey (https://github.com/jagriti2pandey)
 
 # Contributors
 
